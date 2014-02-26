@@ -1,0 +1,9 @@
+
+
+ignore-paths:
+  - flirb
+
+ignore-patterns:
+  - y[aeiou]p
+
+max-line-length: 40
