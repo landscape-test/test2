@@ -4,6 +4,6 @@ ignore-paths:
   - flirb
 
 ignore-patterns:
-  - y[aeiou]p\.py$
+  - y[aiou]p\.py$
 
 max-line-length: 40
