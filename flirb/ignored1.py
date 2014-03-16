@@ -1,3 +1,3 @@
 from collections import defaultdict
 
-print 'snoink snoink'
+print 'snoink snoink foo'
