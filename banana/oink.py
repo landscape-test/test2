@@ -7,3 +7,5 @@ def annother():
 def lala():
     x = 1
 
+print 'woo'
+
