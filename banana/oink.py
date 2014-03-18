@@ -9,3 +9,4 @@ def lala():
 
 print 'woo!'
 
+u = 2
