@@ -1,4 +1,6 @@
-
+python-targets:
+ - 2
+ - 3
 
 ignore-paths:
   - flirb
